@@ -1,12 +1,11 @@
-<?php include('partials/menu.php'); ?>
-         <div class="main-content">
-         <div class="wrapper">
-         <h1>MANAGE ADMIN</h1>
-         
-         <br>
-         <br>
+<?php include('partials/menu.php') ?>
 
-         <a href="add-admin.php" class="btn-primary">Add Admin</a>
+<div class="main-content">
+    <div class="wrapper">
+   <h1>MANAGE ORDER</h1>
+
+   
+    
 
          <br>
          <br>
@@ -53,13 +52,6 @@
          
          </table>
 
-        
-
-         </div>
-         <div class="clearfix">
-             
-
-         </div>
-         </div>
-
-<?php include('partials/footer.php'); ?>
+</div>
+</div>
+<?php include('partials/footer.php') ?>

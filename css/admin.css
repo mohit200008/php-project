@@ -14,6 +14,41 @@
     float: none;
     clear: both;
 }
+.tbl-full {
+    width: 100%;
+}
+table tr th {
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+}
+table tr td {
+    padding: 1%;
+}
+.btn-primary {
+    background-color: #1e90ff;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-primary:hover{
+    background-color: green;
+}
+.btn-secondary {
+    background-color: yellow;
+    padding: 2%;
+    font-weight: bold;
+    text-decoration: none;
+    color: crimson;
+}
+.btn-danger {
+    background-color: crimson;
+    padding: 2%;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
 .text-center {
     text-align: center;
 }
